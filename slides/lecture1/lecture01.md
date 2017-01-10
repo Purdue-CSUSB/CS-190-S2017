@@ -1,5 +1,5 @@
 # CS 190: Tools
-### August 29, 2016 <!-- .element: class="subtitle" style="text-align: center"-->
+### January 11, 2017 <!-- .element: class="subtitle" style="text-align: center"-->
 
 
 
@@ -26,21 +26,8 @@
 jh@purdue.edu
 
 
-## Matt Ess
-mess@purdue.edu
-
-
-## Shane DeWael
-dewaels@purdue.edu
-
-
-## Caitlin Kennedy
-kenned67@purdue.edu
-
-
-## Marty Kausas
-mkausas@purdue.edu
-
+## Ahad Sagheer
+sshageer@purdue.edu
 
 
 # Quiz <!-- .element: style="text-align: center"-->
@@ -61,16 +48,17 @@ C. somewhere in between
 
 
 ## Schedule
-- Lecture every other Tuesday
-- Labs every other week, opposite of lectures
-- May not miss more than **3 combined** lectures and labs
-- https://drive.google.com/file/d/0B6T9Y1awPtf7LTNnOU0zYzVEekU/view?usp=sharing
+- Wednesdays, 2:30 PM - 3:20 PM
+- One week, you will have lecture. The other week, you will have lab *at the same time*.
+- Follow your myPurdue "Schedule-at-a-Glance"
 
 
 ## Grading
 - Pass / Fail class
-- Must turn in assignment at end of lab session
-- iClicker quiz points every lecture
+- Each lab is checked for completion.
+- If you complete all labs, you will get an **A**.
+- You should be able to complete most labs in class. 
+- If you can't complete your lab in class, email it to your specific lab TAs as soon as possible. 
 
 
 
@@ -405,5 +393,5 @@ D. `mv ~ ../*.txt`
 
 
 # Contact Us <!-- .element: style="text-align: center"-->
-* cs190-lecturers@cs.purdue.edu
+* cs190-instructors@cs.purdue.edu
 * cs190-tas@cs.purdue.edu
