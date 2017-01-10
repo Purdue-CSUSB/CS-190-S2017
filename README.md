@@ -8,7 +8,7 @@ shells, and encompasses editors, debuggers, and source control software. Our goa
 
 ## Structure
 
-CS 190 in Spring 2017 is taught for sixteen weeks, alternating a lecture or a lab each week. It consists of a one hour lecture and a one hour lab, alternating each week. The course syllabuls can be fond in the `syllabus/` directory, the labs for the course can be found in the `labs/` directory, and the slides and demos used in lecture can be found in the `slides/` and `demos/`directories respectively.
+CS 190 in Spring 2017 is taught for sixteen weeks, alternating a lecture or a lab each week. It consists of a one hour lecture and a one hour lab, alternating each week. The course syllabus can be fond in the `syllabus/` directory, the labs for the course can be found in the `labs/` directory, and the slides and demos used in lecture can be found in the `slides/` and `demos/`directories respectively.
 
 ## Reference
 

@@ -84,3 +84,17 @@ You are expected to attend all lectures and labs. If you must miss a class, you 
 
 ### Exams
 None.
+
+### Honesty, Integrity, & Conduct
+See [Spaf's Honesty, Integrity, & Conduct policies](http://spaf.cerias.purdue.edu/cpolicy.html) which are a good standard for all courses at Purdue.
+
+### Campus Emergencies
+In the event of a major campus emergency course requirements, deadlines, and grading percentages are subject to changes that may be necessitated by a revised semester calendar. If such unusual circumstances arise, students may determine any such changes by contacting their instructors via email, phone, and/or Blackboard.
+
+Campus emergencies include weather extremes (e.g., tornado, blizzard), HAZMAT (hazardous material) spills or leaks (e.g., gas pipe break, chemical spill), infrastructure problems (e.g., electrical power failures, water quality problems), general safety issues (e.g., person on campus suspected of violent behavior), and pandemic illness.
+
+Students are encouraged to think about personal safety in these circumstances — at home, traveling to and from campus, and while on campus. This includes where to go to seek shelter, if needed.
+
+All campus and local emergencies can be reported by dialing 911 on any telephone, or by using one of the Purdue emergency telephones on and near campus (yellow call boxes with blue lights on top).
+
+Emergencies and campus closings will be announced on local media and on the Purdue University emergency preparedness site at https://purdue.edu/ea. Individuals may subscribe to an SMS text announcement service.
