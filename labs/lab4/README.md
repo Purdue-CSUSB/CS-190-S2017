@@ -2,7 +2,7 @@
 
 The purpose of this lab is for you to learn the basics of Vim and Sublime Text. After you finish this lab, you will have a much better understanding of text editing for programming
 
-Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-190-F2016/blob/master/labs/lab4/lecture04-vim-sublime.md)**
+Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-CSUSB/CS-190-S2017/blob/master/labs/lab4/lecture04-vim-sublime.md)**
 
 ## Part 1 - Vim
 
@@ -13,7 +13,7 @@ Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-
 wget -nc -O ~/.vimrc https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab4/vimrc
 ```
 
-We will be working with the DrJava source code again this week. If you are working remotely (through ssh) make sure you have X11 forwarding enabled. If you forget how to do this, follow the setup instructions from [lab 2](https://github.com/Purdue-CSUSB/CS-190-F2016/tree/master/labs/lab2)
+We will be working with the DrJava source code again this week. If you are working remotely (through ssh) make sure you have X11 forwarding enabled. If you forget how to do this, follow the setup instructions from [lab 2](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/labs/lab2)
 
 We have seeded the DrJava source code with some bugs that you will use your editing skills to fix. Run this command to download the buggy source code:
 
@@ -101,7 +101,7 @@ For part two we will add a couple of settings to your .vimrc that maybe useful.
     ```bash
     vim ~/.vimrc
     ```
-![If you downloaded the .vimrc during setup it should look like this:](https://github.com/Purdue-CSUSB/CS-190-F2016/raw/master/labs/lab4/vimrc1.png)
+![If you downloaded the .vimrc during setup it should look like this:](https://github.com/Purdue-CSUSB/CS-190-S2017/raw/master/labs/lab4/vimrc1.png)
 
 2. Jump to the bottom of the file using `Shift + g`.
 
@@ -130,7 +130,7 @@ For part two we will add a couple of settings to your .vimrc that maybe useful.
     ```
 4. Now open the file again in vim and you should see the current cursor position in the lower right of the window.
 
-![It should look similar to this](https://github.com/Purdue-CSUSB/CS-190-F2016/raw/master/labs/lab4/vimrc2.png)
+![It should look similar to this](https://github.com/Purdue-CSUSB/CS-190-S2017/raw/master/labs/lab4/vimrc2.png)
 
 ## Part 2 - Sublime
 
@@ -167,15 +167,15 @@ In this part of the lab you are given two files `animals.txt` and `animal-stats.
 
 `animals.txt` is a huge list of animals, you need to convert it into an `Array` of `Strings` like so.
 
-![](https://github.com/Purdue-CSUSB/CS-190-F2016/raw/master/labs/lab4/sublime7.png)
+![](https://github.com/Purdue-CSUSB/CS-190-S2017/raw/master/labs/lab4/sublime7.png)
 
 to
 
-![](https://github.com/Purdue-CSUSB/CS-190-F2016/raw/master/labs/lab4/sublime8.png)
+![](https://github.com/Purdue-CSUSB/CS-190-S2017/raw/master/labs/lab4/sublime8.png)
 
 Once you have this array, you need to copy and paste it into `animal-stats.rb` like so.
 
-![](https://github.com/Purdue-CSUSB/CS-190-F2016/raw/master/labs/lab4/sublime9.png)
+![](https://github.com/Purdue-CSUSB/CS-190-S2017/raw/master/labs/lab4/sublime9.png)
 
 Then you can run `ruby animal-stats.rb`!
 

@@ -4,13 +4,13 @@ The purpose of this lab is to teach the basics of using the terminal. After you 
 
 ## The Lab 
 
-Before starting the lab, you might want to check out the [Lecture 1 Cheat Sheet](https://github.com/Purdue-CSUSB/CS-190-F2016/blob/master/labs/lab1/lecture01-basic-terminal-commands.md) to review all the common commands. 
+Before starting the lab, you might want to check out the [Lecture 1 Cheat Sheet](https://github.com/Purdue-CSUSB/CS-190-S2017/blob/master/labs/lab1/lecture01-basic-terminal-commands.md) to review all the common commands. 
 
 Throughout this lab we will give you specific goals and you will have to write the appropriate command to fulfill that goal. The catch is that **all answers should only contain one command** (`mv`, `cp`, `rm`, etc.). 
 
 
 ### The Magic Command 
-    cd; curl -sL https://github.com/Purdue-CSUSB/CS-190-F2016/raw/master/labs/lab1/lab1init | bash
+    cd; curl -sL https://github.com/Purdue-CSUSB/CS-190-S2017/raw/master/labs/lab1/lab1init | bash
 
 When you run the command above, the starting folder structure for this lab will be created in your home `~` directory. If you mess anything up in this lab and want to start over, you can run this command. Be careful though, since this will erase your progress.
 
@@ -175,7 +175,7 @@ There's a few accounts you'll want to sign up for if you haven't already. We wil
 * While you're at it, you should apply to Purdue's hackathon [here](http://boilermake.org).
 
 ###Some useful links
-* The syllabus for this course can be found [here](https://github.com/Purdue-CSUSB/CS-190-F2016/tree/master/syllabus) if you need it.
+* The syllabus for this course can be found [here](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/syllabus) if you need it.
 * The course calendar can be found [here](https://drive.google.com/file/d/0B6T9Y1awPtf7LTNnOU0zYzVEekU/view).
 
 
@@ -192,7 +192,7 @@ Now look at the entire folder structure of your `~/cs190lab1` folder by running 
 
 
 ## More Extra Fun 
-View the [source](https://github.com/Purdue-CSUSB/CS-190-F2016/blob/master/labs/lab1/lab1init) of the Magic script. You know almost everything that is going on in this script!
+View the [source](https://github.com/Purdue-CSUSB/CS-190-S2017/blob/master/labs/lab1/lab1init) of the Magic script. You know almost everything that is going on in this script!
 
 ----
 

@@ -1,22 +1,17 @@
-# Purdue CS190 Syllabus (2015)
+# CS 190 Syllabus (2017)
 
 * **Instructors:**
-    + [Shane DeWael](mailto:dewaels@purdue.edu)
-    + [Matt Ess](mailto:mess@purdue.edu)
     + [Jay Hankins](mailto:hankinsj@purdue.edu)
-    + [Caitlin Kennedy](mailto:kenned67@purdue.edu)
-    + [Marty Kausas](mailto:mkausas@purdue.edu)
-    + Email all the instructors at once: cs190-lecturers@purdue.edu
+    + [Ahad Sagheer](mailto:ssagheer@purdue.edu)
+    + Email both the instructors at once: cs190-instructors@purdue.edu
 * **Need help?**
-    + For course questions, use [Piazza](https://piazza.com/class/ire7azr5kmw2b3)
+    + For course questions, use [Piazza](https://piazza.com/class/ixquh8mau275p7)
+    + For issues with your labs, contact your specific lab TA (link incoming).
     + For other issues, email the TAs: cs190-tas@purdue.edu
 
 ## Course Description
 
 This course is designed to introduce new Computer Science students to various programming tools which will aid them in their Computer Science classes, personal projects, and software development job experiences.
-
-## Schedule
-https://drive.google.com/open?id=0B6T9Y1awPtf7LTNnOU0zYzVEekU
 
 ## Course Topics
 

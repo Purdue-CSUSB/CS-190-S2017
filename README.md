@@ -8,7 +8,7 @@ shells, and encompasses editors, debuggers, and source control software. Our goa
 
 ## Structure
 
-CS 190 is taught for sixteen weeks, alternating two sections weekly, at the beginning of the fall semester for Freshman CS students. It consists of a one hour lecture and a one hour lab each week. The labs for the course can be found in the `labs/` directory, and the slides and demos used in lecture can be found in the `slides/` and `demos/` directories respectively.
+CS 190 in Spring 2017 is taught for sixteen weeks, alternating a lecture or a lab each week. It consists of a one hour lecture and a one hour lab, alternating each week. The course syllabuls can be fond in the `syllabus/` directory, the labs for the course can be found in the `labs/` directory, and the slides and demos used in lecture can be found in the `slides/` and `demos/`directories respectively.
 
 ## Reference
 
@@ -18,13 +18,13 @@ variety of useful topics can be found in the `tutorials/` and `reference/` direc
 
 ## Contact
 
-To contact the Fall 2016 lecturers, email cs190-lecturers@cs.purdue.edu.
+To contact the Spring 2017 lecturers, email cs190-instructors@cs.purdue.edu.
 
-To contact the Fall 2016 teaching assistants, email cs190-tas@cs.purdue.edu.
+To contact the Spring teaching assistants, email cs190-tas@cs.purdue.edu.
 
 For a list of specific TAs based on recitation/lab section, see the list here: https://docs.google.com/spreadsheets/d/1zs6iI7zobgBTjT_IO79rrzt1YPGyVuyS8-wBn1hCohk/edit?usp=sharing
 
-For general questions or comments about these course materials, please contact USB at usb@cs.purdue.edu.
+For general questions or comments about these course materials, please contact Jay Hankins <JH@purdue.edu> or USB <usb@cs.purdue.edu>.
 
 ## License
 
