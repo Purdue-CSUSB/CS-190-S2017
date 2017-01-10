@@ -65,7 +65,7 @@ There are 6 tasks, and you will write 6 **one line** terminal commands that fulf
 
 **All commands should be recorded in answers.txt.** To download the answer sheet below, right-click on the file and click "Save File As" and save it to your **Downloads** folder.
 
-[answers.txt Download Link](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab1/answers.txt)
+[answers.txt Download Link](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab1/answers.txt)
 
 > NOTE: Do not save this file within `~/cs190lab1` because that folder and all of its contents will be erased each time you run the "Magic Script"
 

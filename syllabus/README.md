@@ -39,7 +39,7 @@ Several Computer Science courses expect students to use a number of tools, but f
 
 #### Lecture Notes/Cheat Sheets/Slides
 
-* [Lecture 1 -- Shell](https://purdue-csusb.github.io/CS-190-F2016/slides/lecture1/#/)
+* [Lecture 1 -- Shell](https://purdue-csusb.github.io/CS-190-S2017/slides/lecture1/#/)
 
 ## History
 This course has been taught each Fall (2013, 2014, and 2015) by USB students supervised by Prof. Dunsmore. It was created by [Tyler Hoffman](https://github.com/tyhoff) as part of the Purdue Undergrad Student Board (USB).

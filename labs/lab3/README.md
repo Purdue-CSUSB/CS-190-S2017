@@ -8,7 +8,7 @@ Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-
 
 **ONLY RUN THIS ONCE. IF YOU ALREADY HAVE A ~/bin DIRECTORY RENAME IT TO AVOID LOOSING YOUR PROGRAMS**
 
-    cd; wget -NP ~/bin https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab3/dirinfo
+    cd; wget -NP ~/bin https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab3/dirinfo
 
 Copy the command above and run it within the terminal. It will **not** create a folder named `cs190lab3` located within your home directory, but rather a `bin` folder with a file called `dirinfo` inside.
 
@@ -154,7 +154,7 @@ To do so, run
 
 *If you see a weird screen like this*
 
-![](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab3/newuser.png)
+![](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab3/newuser.png)
 
 *just press `0`*
 #### Pick a Color Scheme ####

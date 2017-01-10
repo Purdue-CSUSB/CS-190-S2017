@@ -10,7 +10,7 @@ Before starting the lab, **OPEN THE [REFERENCE SHEET](https://github.com/Purdue-
 
 **NOTE: Don't do this if you already have a .vimrc customized to your liking!!!**
 ```bash
-wget -nc -O ~/.vimrc https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab4/vimrc
+wget -nc -O ~/.vimrc https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab4/vimrc
 ```
 
 We will be working with the DrJava source code again this week. If you are working remotely (through ssh) make sure you have X11 forwarding enabled. If you forget how to do this, follow the setup instructions from [lab 2](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/labs/lab2)
@@ -18,7 +18,7 @@ We will be working with the DrJava source code again this week. If you are worki
 We have seeded the DrJava source code with some bugs that you will use your editing skills to fix. Run this command to download the buggy source code:
 
 ```bash
-wget -N -P ~ https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab4/buggy-drjava.tar.gz
+wget -N -P ~ https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab4/buggy-drjava.tar.gz
 ```
 
 Extract the code in your home directory by running the command:
@@ -142,9 +142,9 @@ yourself with `mkdir`).
 Download `animals.txt` and `animal-stats.rb` using `wget`. The URLs are:
 
 ```
-https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab4/animals.txt
+https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab4/animals.txt
 and
-https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab4/animal-stats.rb
+https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab4/animal-stats.rb
 ```
 
 Next you need to install Sublime on your system. Run the following commands:
