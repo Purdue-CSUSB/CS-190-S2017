@@ -37,7 +37,7 @@ After successfully completing this course, a student will understand how to:
 Several Computer Science courses expect students to use a number of tools, but few have the time or manpower to teach those tools.
 
 
-#### Lecture Notes/Cheat Sheets/Slides
+## Lecture Notes/Cheat Sheets/Slides
 
 * Please find slides under the [`slides`](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/slides) directory. 
 
@@ -55,7 +55,7 @@ None.
 
 Labs are mandatory and they will be over topics taught in the previous week's lecture.
 
-* [Lab 1](https://github.com/Purdue-CSUSB/CSToolsCourse/tree/master/labs/lab1) - Introduction to CS190
+* [Lab 1](https://github.com/Purdue-CSUSB/CSToolsCourse/tree/master/labs/lab1) - Introduction to CS 190
 * [Lab 2](https://github.com/Purdue-CSUSB/CSToolsCourse/tree/master/labs/lab2) - More shell!
 * [Lab 3](https://github.com/Purdue-CSUSB/CSToolsCourse/tree/master/labs/lab3) - Your environment
 * [Lab 4](https://github.com/Purdue-CSUSB/CSToolsCourse/tree/master/labs/lab4) - Editors! Vim and Sublime Text
@@ -63,7 +63,7 @@ Labs are mandatory and they will be over topics taught in the previous week's le
 * [Lab 6](https://github.com/Purdue-CSUSB/CSToolsCourse/tree/master/labs/lab6) - Git 1: Local git
 * [Lab 7](https://github.com/Purdue-CSUSB/CSToolsCourse/tree/master/labs/lab7) - Git 2: Working with remotes and merging
 
-### Grading
+## Grading
 
 In this class, you will either get an A or an F. Grading is simple. Each lab is checked for completion. If you complete all labs, you will get an A. In code:
 
@@ -78,17 +78,17 @@ You should be able to complete most labs in class. If you can't complete your la
 
 For any questions on this, contact [Jay](mailto:hankinsj@purdue.edu).
 
-### Attendance
+## Attendance
 
 You are expected to attend all lectures and labs. If you must miss a class, you are expected to email the instructors and your assigned lab TAs. If you are missing a class due to bereavement, please have necessary paperwork from the Office of the Dean of Students (ODOS).
 
-### Exams
+## Exams
 None.
 
-### Honesty, Integrity, & Conduct
+## Honesty, Integrity, & Conduct
 See [Spaf's Honesty, Integrity, & Conduct policies](http://spaf.cerias.purdue.edu/cpolicy.html) which are a good standard for all courses at Purdue.
 
-### Campus Emergencies
+## Campus Emergencies
 In the event of a major campus emergency course requirements, deadlines, and grading percentages are subject to changes that may be necessitated by a revised semester calendar. If such unusual circumstances arise, students may determine any such changes by contacting their instructors via email, phone, and/or Blackboard.
 
 Campus emergencies include weather extremes (e.g., tornado, blizzard), HAZMAT (hazardous material) spills or leaks (e.g., gas pipe break, chemical spill), infrastructure problems (e.g., electrical power failures, water quality problems), general safety issues (e.g., person on campus suspected of violent behavior), and pandemic illness.
