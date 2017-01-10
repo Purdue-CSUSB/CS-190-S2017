@@ -55,7 +55,7 @@ None.
 
 Labs are mandatory and they will be over topics taught in the previous week's lecture.
 
-* [Lab 1](https://github.com/Purdue-CSUSB/CSToolsCourse/tree/master/labs/lab1) - Introduction to CS 190
+* [Lab 1](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/labs/lab1) - Introduction to CS 190
 
 ## Grading
 
