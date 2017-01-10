@@ -24,7 +24,7 @@ To contact the teaching assistants, email cs190-tas@cs.purdue.edu.
 
 For a list of specific TAs based on recitation/lab section, see the list here: (link incoming).
 
-For general questions or comments about these course materials, please contact Jay Hankins <JH@purdue.edu> or USB <usb@cs.purdue.edu>.
+For general questions or comments about these course materials, please contact Jay Hankins &lt;JH@purdue.edu&gt; or USB &lt;usb@cs.purdue.edu&gt;.
 
 ## License
 
