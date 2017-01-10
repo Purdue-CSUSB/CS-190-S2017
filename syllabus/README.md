@@ -5,9 +5,9 @@
     + [Ahad Sagheer](mailto:ssagheer@purdue.edu)
     + Email both the instructors at once: cs190-instructors@purdue.edu
 * **Need help?**
-    + For course questions, use [Piazza](https://piazza.com/class/ixquh8mau275p7)
+    + For course questions, use [Piazza](https://piazza.com/class/ixquh8mau275p7).
     + For issues with your labs, contact your specific lab TA (link incoming).
-    + For other issues, email the TAs: cs190-tas@purdue.edu
+    + For other issues, email the TAs: cs190-tas@purdue.edu.
 
 ## Course Description
 
@@ -39,7 +39,7 @@ Several Computer Science courses expect students to use a number of tools, but f
 
 #### Lecture Notes/Cheat Sheets/Slides
 
-* [Lecture 1 -- Shell](https://purdue-csusb.github.io/CS-190-S2017/slides/lecture1/#/)
+* Please find slides under the [`slides`](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/slides) directory. 
 
 ## History
 This course has been taught each Fall (2013, 2014, and 2015) by USB students supervised by Prof. Dunsmore. It was created by [Tyler Hoffman](https://github.com/tyhoff) as part of the Purdue Undergrad Student Board (USB).
@@ -65,13 +65,22 @@ Labs are mandatory and they will be over topics taught in the previous week's le
 
 ### Grading
 
-The grading for this class is simple. You get an A if you miss 3 or fewer points during the course of the semester. You will get an F if you miss more than 3 points during the semester. Take this class seriously. It will help your GPA (or hurt it)
+In this class, you will either get an A or an F. Grading is simple. Each lab is checked for completion. If you complete all labs, you will get an A. In code:
 
-You get a point for every lecture or lab
+```
+if (completeAllLabs) {
+    your.Grade = 'A';
+}
 
-You miss a point for each lecture/lab you don't attend.
+else your.Grade = 'F';
+```
+You should be able to complete most labs in class. If you can't complete your lab in class, email it to your specific lab TAs as soon as possible. Take this class seriously, it will help your GPA.
 
 For any questions on this, contact [Jay](mailto:hankinsj@purdue.edu).
+
+### Attendance
+
+You are expected to attend all lectures and labs. If you must miss a class, you are expected to email the instructors and your assigned lab TAs. If you are missing a class due to bereavement, please have necessary paperwork from the Office of the Dean of Students (ODOS).
 
 ### Exams
 None.
