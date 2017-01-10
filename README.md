@@ -1,4 +1,4 @@
-CS 190: Freshman Tools and Resources
+CS 190: Freshman Tools and Resources (Spring 2017)
 ====================================
 
 ## Purpose
@@ -18,11 +18,11 @@ variety of useful topics can be found in the `tutorials/` and `reference/` direc
 
 ## Contact
 
-To contact the Spring 2017 lecturers, email cs190-instructors@cs.purdue.edu.
+To contact the lecturers, email cs190-instructors@cs.purdue.edu.
 
-To contact the Spring teaching assistants, email cs190-tas@cs.purdue.edu.
+To contact the teaching assistants, email cs190-tas@cs.purdue.edu.
 
-For a list of specific TAs based on recitation/lab section, see the list here: https://docs.google.com/spreadsheets/d/1zs6iI7zobgBTjT_IO79rrzt1YPGyVuyS8-wBn1hCohk/edit?usp=sharing
+For a list of specific TAs based on recitation/lab section, see the list here: (link incoming).
 
 For general questions or comments about these course materials, please contact Jay Hankins <JH@purdue.edu> or USB <usb@cs.purdue.edu>.
 
