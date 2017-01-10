@@ -11,7 +11,7 @@ This is a community-contributed collection of tutorials for various software too
 
 We will review the pull requests, make any comments or necessary edits, and then merge the changes into the master branch of the course repo. 
 
-Please email me (Jay Hankins) at JG@purdue.edu with any specific questions about the contribution process.
+Please email me (Jay Hankins) at JH@purdue.edu with any specific questions about the contribution process.
 
 ## Notes about GPL
 We are licensing the course material under the GNU General Public License (subject to change). You can find lots of information here: http://www.gnu.org/copyleft/gpl.html. For each tutorial or reference sheet you write, be sure to include a copyright statement at the top. For example:

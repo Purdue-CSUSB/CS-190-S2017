@@ -8,13 +8,13 @@ shells, and encompasses editors, debuggers, and source control software. Our goa
 
 ## Structure
 
-CS 190 in Spring 2017 is taught for sixteen weeks, alternating a lecture or a lab each week. It consists of a one hour lecture and a one hour lab, alternating each week. The course syllabus can be fond in the `syllabus/` directory, the labs for the course can be found in the `labs/` directory, and the slides and demos used in lecture can be found in the `slides/` and `demos/`directories respectively.
+CS 190 in Spring 2017 is taught for sixteen weeks, alternating a lecture or a lab each week. It consists of a one hour lecture and a one hour lab, alternating each week. The course syllabus can be fond in the [`syllabus/`](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/syllabus) directory, the labs for the course can be found in the [`labs/`](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/labs) directory, and the slides and demos used in lecture can be found in the [`slides/`](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/slides) and [`demos/`](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/demos) directories respectively.
 
 ## Reference
 
 We are also committed to providing resources for the students beyond
 the classroom. Various tutorials and reference sheets applying to a
-variety of useful topics can be found in the `tutorials/` and `reference/` directories respectively. We are open to public contributions. If you see a need for a tutorial or reference sheet not covered, please submit a pull request with the new materials.
+variety of useful topics can be found in the [`tutorials/`](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/tutorials) and `reference/` directories respectively. We are open to public contributions. If you see a need for a tutorial or reference sheet not covered, please submit a pull request with the new materials.
 
 ## Contact
 

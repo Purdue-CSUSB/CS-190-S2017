@@ -1,4 +1,4 @@
-# CS 190 Syllabus (2017)
+# CS 190 Syllabus (Spring 2017)
 
 * **Instructors:**
     + [Jay Hankins](mailto:hankinsj@purdue.edu)
