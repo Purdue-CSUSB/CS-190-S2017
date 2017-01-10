@@ -43,7 +43,7 @@ Several Computer Science courses expect students to use a number of tools, but f
 
 ## History
 This course has been taught each Fall (2013, 2014, and 2015) by USB students supervised by Prof. Dunsmore. It was created by [Tyler Hoffman](https://github.com/tyhoff) as part of the Purdue Undergrad Student Board (USB).
-It continues to be run by USB and is therefore entirely student-led. It has been so successful that students in other majors are asking if they can take it. We hope to add a Spring offering to accommodate more students. 
+It continues to be run by USB and is therefore entirely student-led. It has been so successful that students in other majors are asking if they can take it.
 
 ## Prerequisites 
 None.
