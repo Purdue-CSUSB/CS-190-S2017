@@ -1,13 +1,13 @@
 # CS 190 Syllabus (Spring 2017)
 
 * **Instructors:**
-    + [Jay Hankins](mailto:hankinsj@purdue.edu)
+    + [Jay Hankins](mailto:JH@purdue.edu)
     + [Ahad Sagheer](mailto:ssagheer@purdue.edu)
-    + Email both the instructors at once: cs190-instructors@purdue.edu
+    + Email both the instructors at once: cs190-instructors@cs.purdue.edu
 * **Need help?**
     + For course questions, use [Piazza](https://piazza.com/class/ixquh8mau275p7).
     + For issues with your labs, contact your specific lab TA (link incoming).
-    + For other issues, email the TAs: cs190-tas@purdue.edu.
+    + For other issues, email the TAs: cs190-tas@cs.purdue.edu.
 
 ## Course Description
 
