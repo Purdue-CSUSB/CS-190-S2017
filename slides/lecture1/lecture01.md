@@ -27,7 +27,7 @@ jh@purdue.edu
 
 
 ## Ahad Sagheer
-sshageer@purdue.edu
+ssagheer@purdue.edu
 
 
 # Quiz <!-- .element: style="text-align: center"-->
