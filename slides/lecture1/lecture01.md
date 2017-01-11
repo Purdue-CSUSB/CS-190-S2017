@@ -301,7 +301,7 @@ Make sure to emphasize the -r is for 'recursively'
 
 # move the folder "project1" into the folder "cs180"
 # which is located in the user's home directory
-~ » mv -r project1 ~/cs180
+~ » mv project1 ~/cs180
 ```
 <!-- .element: class="hljs nohighlight"-->
 
