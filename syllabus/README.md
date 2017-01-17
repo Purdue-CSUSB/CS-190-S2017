@@ -9,6 +9,7 @@
     + [Dan Zheng](zheng321@purdue.edu)
     + [Nisarg Kolhe](nkolhe@purdue.edu)
     + [Pravin Sivabalan](psivabal@purdue.edu)
+    + Email all TAs at cs190-tas@cs.purdue.edu.
 * **Need help?**
     + For course questions, use [Piazza](https://piazza.com/class/ixquh8mau275p7).
     + For issues with your labs, contact your specific lab TA (link incoming).
