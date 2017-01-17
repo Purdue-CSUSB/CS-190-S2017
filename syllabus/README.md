@@ -4,6 +4,11 @@
     + [Jay Hankins](mailto:JH@purdue.edu)
     + [Ahad Sagheer](mailto:ssagheer@purdue.edu)
     + Email both the instructors at once: cs190-instructors@cs.purdue.edu
+* **Teaching Assistants:**
+    + [Julie Stevenson](mailto:steve146@purdue.edu)
+    + [Dan Zheng](zheng321@purdue.edu)
+    + [Nisarg Kolhe](nkolhe@purdue.edu)
+    + [Pravin Sivabalan](psivabal@purdue.edu)
 * **Need help?**
     + For course questions, use [Piazza](https://piazza.com/class/ixquh8mau275p7).
     + For issues with your labs, contact your specific lab TA (link incoming).
