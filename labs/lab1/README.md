@@ -172,7 +172,10 @@ There's a few accounts you'll want to sign up for if you haven't already. We wil
 
 * Github is awesome, so sign up when you get the chance. If you use your Purdue email, you'll get some extra stuff for free. You can click [here](https://education.github.com) for more information.
 * Sign up for the [CS 190 Piazza](https://piazza.com/purdue/fall2016/cs190/home) if you haven't already. This will help you stay informed about what's going on in the class. 
+
+<!---
 * While you're at it, you should apply to Purdue's hackathon [here](http://boilermake.org).
+-->
 
 ###Some useful links
 * The syllabus for this course can be found [here](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/syllabus) if you need it.
