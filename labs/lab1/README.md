@@ -179,7 +179,6 @@ There's a few accounts you'll want to sign up for if you haven't already. We wil
 
 ###Some useful links
 * The syllabus for this course can be found [here](https://github.com/Purdue-CSUSB/CS-190-S2017/tree/master/syllabus) if you need it.
-* The course calendar can be found [here](https://drive.google.com/file/d/0B6T9Y1awPtf7LTNnOU0zYzVEekU/view).
 
 
 ## Extra Fun 
