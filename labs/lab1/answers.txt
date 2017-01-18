@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# CS190 Lab2 Answer Sheet
+# CS190 Lab 1 Answer Sheet
 
 # NOTE: Ignore the line directly below any "# ignore" statement.
 

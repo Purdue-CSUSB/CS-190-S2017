@@ -1,4 +1,4 @@
-# CS 190 Lab 1 (Fall 2016) - What Does the _____ Say? 
+# CS 190 Lab 1 (Spring 2017) - What Does the _____ Say? 
 
 The purpose of this lab is to teach the basics of using the terminal. After you finish this lab, you will be able to manipulate files on any UNIX-like machine (including your Purdue CS account)!
 
