@@ -1,10 +1,13 @@
+![silly gifs](assets/wow.gif) <!-- .element: class="center" style="width: 50%; border: 0; box-shadow: none; float: left; margin-left: -5px;"-->
+![more silly gifs](assets/wow2.gif) <!-- .element: class="center" style="width: 50%; border: 0; box-shadow: none; padding-left: 5px;"-->
+
 # CS 190: Tools
-### September 6, 2016 <!-- .element: class="subtitle" style="text-align: center"-->
+### January 25, 2017 <!-- .element: class="subtitle" style="text-align: center"-->
 
 
 
 # Welcome back!
-![more terminal](assets/kanye.png) <!-- .element: class="center" style="width: 50%"-->
+### More Terminal <!-- .element: class="subtitle" style="text-align: center"-->
 
 
 # First, some review <!-- .element: style="text-align: center"-->
@@ -294,11 +297,8 @@ ls -al | sort > output.txt
 
 
 ## Quiz 2.2
-<<<<<<< HEAD
-What command am you ***not allowed*** to run 
-=======
-What command are you ***not allowed*** to run 
->>>>>>> gh-pages
+What command are you ***not allowed*** to run? 
+
 
 A. `find ~/cs180/ -name Shape.java` 
 
@@ -312,11 +312,7 @@ E. They are all allowed
 
 
 ## Quiz 2.2 Answer
-<<<<<<< HEAD
-What command am you ***not allowed*** to run 
-=======
-What command are you ***not allowed*** to run 
->>>>>>> gh-pages
+What command are you ***not allowed*** to run?
 
 A. `find ~/cs180/ -name Shape.java`<!-- .element: style="color: grey;"-->
 
@@ -327,42 +323,4 @@ C. `find /homes/brown886 -name Shape.java`<!-- .element: style="color: grey;"-->
 **D. `find / -name Shape.java`**
 
 E. They are all allowed <!-- .element: style="color: grey;"-->
-
-
-
-# Announcements
-
-
-### When you realize it's time to start applying for internships<!-- .element: style="text-align: center"-->
-![Spongebob](assets/spongebob.jpg) <!-- .element: class="center" style="border: none; box-shadow:none; width:50%;"--> 
-
-
-## Upcoming Career Fairs
-* AITP Computing Career Fair:
-    - **Thursday, September 8, 9:00 am - 3:00 pm**
-* CS Career Fair: 
-    - **Monday, September 12, 5:00 pm - 8:30 pm**
-
-
-![Cisco logo](assets/cisco.png) <!-- .element: style="border: none; box-shadow:none; width:15%;"--> 
-## Internships at Cisco
-* Jay Hankins is Purdue's Cisco Campus Ambassador
-    - And a two-time security intern in RTP, North Carolina
-* Kiley Dove is Purdue's Cisco Recruiter (<kidove@cisco.com>)
-* https://cisco.com/go/university
-
-
-## Cisco Events
-<<<<<<< HEAD
-=======
-* [Positions at Cisco](https://drive.google.com/file/d/0B6T9Y1awPtf7TWkxRHJhMXJSMlBDWnkzTTEwMU5ubDctNkNV/view?usp=sharing)
-
-![Cisco Poster](assets/networking_night_info.png)<!-- .element: class="center" style="border: none; box-shadow:none; width:75%;"--> 
-
-
->>>>>>> gh-pages
-* At both career fairs
-* Networking Night (Skip the career fair lines)
-    - Wednesday, September 7, 6:00 pm - 8:00 pm
-    - Lynn Hall (Veterinary Building)
 
