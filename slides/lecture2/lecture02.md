@@ -2,7 +2,7 @@
 ![more silly gifs](assets/wow2.gif) <!-- .element: class="center" style="width: 50%; border: 0; box-shadow: none; padding-left: 5px;"-->
 
 # CS 190: Tools<!-- .element: style="font-family: 'Comic Sans MS'; text-align: center"-->
-### January 25, 2017 <!-- .element: class="subtitle" style="font-family: 'Comic Sans MS'; text-align: center"-->
+### January 25, 2017 <!-- .element: class="subtitle" style="font-family: 'Papyrus'; text-align: center"-->
 
 
 
