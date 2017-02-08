@@ -1,9 +1,3 @@
-<!-- # CS 190: Tools
-### January 08, 2017  .element: class="subtitle" style="text-align: center" -->
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/rTfa-9aCTYg" frameborder="0" allowfullscreen></iframe>
-
-
-
 # ＬＥＣＴＵＲＥ 3: <!-- .element: style="background-color: pink; font-weight: bold; color: white; font-style:italic; text-align: center;"-->
 ## ＹＯＵＲ ＥＮＶＩＲＯＮＭＥＮＴ<!-- .element: style="background-color: pink; font-weight: bold; color: white; font-style:italic; text-align: center"-->
 <!-- .slide: data-background-image="assets/wave.jpg" -->
