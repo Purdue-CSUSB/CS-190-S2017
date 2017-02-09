@@ -11,7 +11,7 @@ Depending on your working environment, perform the appropriate action:
 | Environment   | Action        |
 | ------------- | ------------- |
 | Linux Lab Machine            | Open a terminal window        |
-| Windows or Personal Computer | SSH into `data.cs.purdue.edu`*  |
+| Windows or Personal Computer | SSH into `data.cs.purdue.edu`  |
 
 ----
 
