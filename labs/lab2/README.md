@@ -39,7 +39,7 @@ X11 forwarding is an awesome feature of ssh. Normally when you ssh into a lab ma
 ----
 
 ### The Magic Command ###
-    cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab2/lab2init | bash
+    cd; curl -sL https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab2/lab2init | bash
 
 Copy the command above and run it within the terminal. It will create a folder named `cs190lab2` located within your home directory.
 
