@@ -1,8 +1,8 @@
-# CS 190 Lab 6 (2016) - Git
+# CS 190 Lab 6 (2017) - Git
 
 The purpose of this lab is to gain a workable knowledge of git and GitHub. Not only is this a powerful tool for assuring you get the best grade possible on your projects, protecting you from losing code, and collaborating, but it is also a necessary skill in the work place. You will never have a computer science job that doesn't require the use of a version control system.
 
-__For quick reference on the git commands we covered, see the cheat sheet [here] (https://github.com/Purdue-CSUSB/CS-190-F2016/blob/master/labs/lab6/lecture06-git.md)__
+__For quick reference on the git commands we covered, see the cheat sheet [here] (https://github.com/Purdue-CSUSB/CS-190-S2017/blob/master/labs/lab6/lecture06-git.md)__
 
 ## The Lab
 
@@ -25,7 +25,7 @@ We will now get the code for the lab from GitHub. Before you continue, you must 
 
 Navigate to the project page that can be found at https://github.com/Purdue-CSUSB/pycalc. In the top right-hand corner, press the "Fork" button.
 
-![Fork screenshot](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab6/assets/fork-screenshot.png)
+![Fork screenshot](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab6/assets/fork-screenshot.png)
 
 *Note: If you are part of a group on GitHub, it may ask you where you want to fork the repository. If it asks you this,just fork it into your personal GitHub.*
 
@@ -34,7 +34,7 @@ Forking simply makes a copy of the repository in your own account so that you ha
 Now on the right side of the screen click the button to copy the clone URL to your clipboard. Make sure that you have selected
 the HTTPS option.
 
-![Clone screenshot](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-F2016/master/labs/lab6/assets/clone-screenshot.png)
+![Clone screenshot](https://raw.githubusercontent.com/Purdue-CSUSB/CS-190-S2017/master/labs/lab6/assets/clone-screenshot.png)
 
 *Note: There are other protocols to do this (some of them more convenient than HTTPS). If you'd like to learn how to set up SSH keys to use SSH to clone you can learn more [here](https://help.github.com/articles/generating-ssh-keys/) (please do this on your own time).*
 
@@ -151,30 +151,30 @@ Here are some practical things you could do with git if you have extra time:
 
     Please don't put your Purdue CS projects into public repos on GitHub. Make sure they're in a private repo. You can get in big trouble with your professors if you post projects publicly.
 
-* Setting up SSH keys:
+##### Setting up SSH keys:
 
-    You may have noticed that every time you pull or push to GitHub, you have to enter your username and password. This is because you are using the HTTPS protocol to connect to GitHub as a remote.
+You may have noticed that every time you pull or push to GitHub, you have to enter your username and password. This is because you are using the HTTPS protocol to connect to GitHub as a remote.
 
-    This has a few advantages:
+This has a few advantages:
 
-    * It's easier and faster to set up.
-    * It will still work on strict firewalls and proxies such as those restricting
-      all ports but port 80 and 443 (only HTTP and HTTPS traffic).
+* It's easier and faster to set up.
+* It will still work on strict firewalls and proxies such as those restricting
+  all ports but port 80 and 443 (only HTTP and HTTPS traffic).
 
-    The downsides being:
+The downsides being:
 
-    * You have to enter your credentials every time you push or pull.
-    * Typing your password can be insecure on unfamiliar machines or HTTP
-      connections
+* You have to enter your credentials every time you push or pull.
+* Typing your password can be insecure on unfamiliar machines or HTTP
+  connections
 
-    Luckily, there is another way. You can set up the remote to use SSH instead of
-    HTTPS.
+Luckily, there is another way. You can set up the remote to use SSH instead of
+HTTPS.
 
-    SSH uses RSA encryption. This allows you use a "password-less log in" using a
-    public/private key pair.
+SSH uses RSA encryption. This allows you use a "password-less log in" using a
+public/private key pair.
 
-    There is a great tutorial by GitHub on how to set up and use this method
-    [here](https://help.github.com/articles/generating-ssh-keys/).
+There is a great tutorial by GitHub on how to set up and use this method
+[here](https://help.github.com/articles/generating-ssh-keys/).
 
-    Note: you will need to add an SSH key for every different machine you want
-    to clone on (e.g. your personal machine and the CS servers).
+Note: you will need to add an SSH key for every different machine you want
+to clone on (e.g. your personal machine and the CS servers).
