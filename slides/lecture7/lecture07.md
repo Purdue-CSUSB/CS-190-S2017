@@ -8,7 +8,7 @@
 
 
 
-# Lecture 8:
+# Lecture 7:
 ### Be Awesome <!-- .element: class="subtitle" style="text-align: center" -->
 
 
@@ -72,8 +72,9 @@
 * Install iTerm2
 * Install brew and cask package managers
 * Install Alfred
-* Install Spectacle or BetterTouchTool or Magnet, which gives you "snap" functionality on application windows.
+* Install Spectacle or Magnet, which gives you "snap" functionality on application windows.
 * Install Docker for Mac?
+* Install a clipboard manager (I use Paste)
 
 
 ## Need a server to play around with?
