@@ -216,21 +216,6 @@
 <p style="text-align: center">https://purdueusb.com<!-- .element: style="color: #DD6B27"--></p>
 
 
-We are looking for freshmen who <!-- .element: style="text-align: center; font-size: 36pt;"-->
-
-<!-- .element: style="text-align: center; font-size: 36pt;"-->**want to help better the CS department**. 
-
-
-Be on the lookout in Spring 2017...
-1. Apply
-2. Interview
-3. Do Great Things
-
-
-<h2 class="" style="text-align: center; font-weight: 600"> Want to get involved with CS 190?<h2>
-<p class="fragment" style="text-align: center; font-size: 28pt; letter-spacing: 1.3pt;">https://purdueusb.com/cs190/apply/ta</p>
-
-
 ## Final Course Evaluation
 <!-- .element: style="text-align: center"-->
 <br>
